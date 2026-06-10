@@ -17,8 +17,10 @@ export const metadata: Metadata = {
   description: "Agencia de desarrollo de software a medida. Web, móvil, automatización e inteligencia artificial.",
   icons: {
     icon: [
-      { url: "/favicon.svg", type: "image/svg+xml" },
+      { url: "/logo.png", type: "image/png" },
     ],
+    shortcut: "/logo.png",
+    apple: "/logo.png",
   },
 };
 
