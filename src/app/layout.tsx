@@ -13,15 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MonkeyCode — Construimos lo que otros no pueden",
+  title: "MonkeyCode — Software personalizado",
   description: "Agencia de desarrollo de software a medida. Web, móvil, automatización e inteligencia artificial.",
-  icons: {
-    icon: [
-      { url: "/logo.png", type: "image/png" },
-    ],
-    shortcut: "/logo.png",
-    apple: "/logo.png",
-  },
 };
 
 export default function RootLayout({
